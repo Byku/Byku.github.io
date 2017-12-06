@@ -1,0 +1,11 @@
+html.blur .slide-background.present {
+  filter: blur(5px);
+}
+
+html.blurhuge .slide-background.present {
+  filter: blur(20px);
+}
+
+img.photoheight {
+  height: 60vh;
+}
